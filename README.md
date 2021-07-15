@@ -1,9 +1,11 @@
-# ATTT-20202
+# About The Project
 Project Nhập môn ATTT-20202
-/nImage Encryption and Decryption using RSA Algorithm
+<br> Image Encryption and Decryption using RSA Algorithm
+
 # Requires
-Python 3.0+ or Jupyter Notebook
-/nLibrary: OpenCV
+* Python 3.0+ or Jupyter Notebook
+* Library: OpenCV
+
 # Contributors
 1.	Nguyễn Thị Trang- 20183843
 2.	Vũ Trần Đức Anh- 20183691
